@@ -1,6 +1,10 @@
 
 # DSA-Search-Engine 
 
+![b](https://user-images.githubusercontent.com/62032365/189328661-7b91a029-2798-416f-a80a-bd268a119538.jpeg)
+![c](https://user-images.githubusercontent.com/62032365/189328669-dd76563c-8dc4-4f2e-9d8e-300dce17985c.jpeg)
+![A](https://user-images.githubusercontent.com/62032365/189328672-b003112b-f341-40dd-bfbe-166912fb7455.jpeg)
+
 
 This project implements the DSA SEACRH ENGINE.
 You can search your query string and the best matched leetcode-questions would be shown in output page.
@@ -24,6 +28,3 @@ how to run
 nodemon app.js
 #type 'localhost:3000/' inside chrome url box.
 
-![A](https://user-images.githubusercontent.com/62032365/189328167-9e17b628-481d-4ce5-ba5d-8f766592dd61.jpeg)
-![b](https://user-images.githubusercontent.com/62032365/189328210-07389129-8d21-437c-ab97-9019b0849d3e.jpeg)
-![c](https://user-images.githubusercontent.com/62032365/189328212-f8b35b8b-2c44-4b5d-9b03-8d5d8bc877f7.jpeg)
